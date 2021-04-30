@@ -1,0 +1,8 @@
+{
+  "name": "find-recipes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lucassnts963/find-recipes.git",
+  "author": "Lucas Santos <lucassnts963@gmail.com>",
+  "license": "MIT"
+}
