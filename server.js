@@ -1,8 +1,12 @@
 var express = require('express')
+
+var routes = require('./routes.js')
+
 var app = express()
-app.get('/', function(req, res){
-  res.send('Olá Mundo')
-})
+
+
+
+app.use('/', routes)
 
 
 app.listen(3000, function(){
